@@ -14,7 +14,6 @@ Bem-vindo(a) ao repositório do meu projeto **Cartão de Links Sociais**! 🚀 E
   <img src="preview.jpg" alt="Prévia do Cartão de Links Sociais" width="450px" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
 </p>
 
-☝️ Curtiu? Passe o mouse nos botões para uma surpresinha animada! 😉
 
 ---
 
